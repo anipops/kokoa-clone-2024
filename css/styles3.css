@@ -1,0 +1,53 @@
+h1 {
+    text-align: center;
+}
+body {
+    height: 1000vh;
+    margin: 20px;
+    background-color: whitesmoke;
+}
+span {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#Box1 {
+    display: flex;
+    justify-content: center;
+}
+#Tomato {
+    margin: 20px;
+    border: 6px solid white;
+    width: 200px;
+    height: 400px;
+    color: white;
+    background-color: tomato;
+}
+#Teal {
+    margin: 20px;
+    border: 6px solid white;
+    width: 200px;
+    height: 400px;
+    color: white;
+    background-color: teal;
+}
+#Box2 {
+    display: flex;
+    justify-content: center;
+}
+#Burlywood {
+    margin: 20px;
+    border: 6px solid white;
+    width: 200px;
+    height: 400px;
+    color: white;
+    background-color: Burlywood;
+}
+#Thistle {
+    margin: 20px;
+    border: 6px solid white;
+    width: 200px;
+    height: 400px;
+    color: white;
+    background-color: Thistle;
+}
